@@ -1,5 +1,13 @@
 {
-  "assets": [],
+  "assets": [
+    {
+      "height": 0,
+      "src": "/assets/niji_logo_2.png",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    }
+  ],
   "cssVarOrder": [],
   "dataSources": [],
   "fonts": [],
