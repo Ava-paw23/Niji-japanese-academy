@@ -137,6 +137,7 @@
       ],
       "style": {
         "align-self": "center",
+        "border-radius": "10px",
         "color": "#9c3848",
         "font-family": "Trebuchet MS, Helvetica, sans-serif",
         "text-align": "center"
