@@ -126,6 +126,7 @@
       "state": "active",
       "style": {
         "background-color": "#9c3848",
+        "border-radius": "8px",
         "color": "#f1e2e4"
       }
     },
