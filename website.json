@@ -157,6 +157,16 @@
     {
       "atRule": "",
       "selectors": [
+        "#is2uy"
+      ],
+      "state": "hover",
+      "style": {
+        "border-bottom": "0px none"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
         "#iib6l"
       ],
       "state": "active",
