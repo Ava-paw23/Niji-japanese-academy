@@ -44,6 +44,28 @@
                         "type": "textnode"
                       }
                     ],
+                    "selector": {
+                      "mainSelector": {
+                        "pseudoClass": {
+                          "hasParam": false,
+                          "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                          "sentencePre": "On mouse",
+                          "type": "hover"
+                        },
+                        "selectors": [
+                          {
+                            "active": true,
+                            "type": "id",
+                            "value": "i2vja"
+                          },
+                          {
+                            "active": false,
+                            "type": "class",
+                            "value": "silex-default-text"
+                          }
+                        ]
+                      }
+                    },
                     "type": "text"
                   }
                 ],
