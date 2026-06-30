@@ -133,6 +133,7 @@
         "#iib6l"
       ],
       "style": {
+        "align-self": "center",
         "text-align": "center"
       }
     }
