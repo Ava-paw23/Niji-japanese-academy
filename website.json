@@ -139,6 +139,16 @@
         "color": "#9c3848",
         "text-align": "center"
       }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#iib6l"
+      ],
+      "state": "hover",
+      "style": {
+        "font-weight": "600"
+      }
     }
   ],
   "symbols": []
