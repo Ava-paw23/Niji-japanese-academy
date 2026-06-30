@@ -104,6 +104,16 @@
         "color": "#9c3848",
         "font-family": "Trebuchet MS, Helvetica, sans-serif"
       }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#i2vja"
+      ],
+      "state": "hover",
+      "style": {
+        "font-weight": "700"
+      }
     }
   ],
   "symbols": []
