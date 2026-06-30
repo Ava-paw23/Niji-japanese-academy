@@ -89,6 +89,7 @@
         "#is2uy"
       ],
       "style": {
+        "border-bottom": "0px solid",
         "height": "50px",
         "width": "300px"
       }
