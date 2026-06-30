@@ -23,30 +23,9 @@
                 "type": "image"
               },
               {
-                "classes": [
-                  "silex-default-container"
-                ],
-                "type": "container"
-              },
-              {
-                "classes": [
-                  "silex-default-container"
-                ],
-                "type": "container"
-              },
-              {
-                "classes": [
-                  "silex-default-container"
-                ],
-                "type": "container"
-              },
-              {
-                "classes": [
-                  "silex-default-container"
-                ],
-                "type": "container"
-              },
-              {
+                "attributes": {
+                  "id": "i99m1"
+                },
                 "classes": [
                   "silex-default-container"
                 ],
@@ -54,7 +33,7 @@
               },
               {
                 "attributes": {
-                  "id": "is2uy"
+                  "id": "ioh0j"
                 },
                 "classes": [
                   "silex-default-container"
@@ -68,6 +47,46 @@
                 "type": "container"
               },
               {
+                "attributes": {
+                  "id": "i8h5j"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "type": "container"
+              },
+              {
+                "attributes": {
+                  "id": "iqmlj"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "type": "container"
+              },
+              {
+                "attributes": {
+                  "id": "is2uy"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "custom-name": "Navigation",
+                "type": "container"
+              },
+              {
+                "attributes": {
+                  "id": "i65vl"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "type": "container"
+              },
+              {
+                "attributes": {
+                  "id": "iiuy"
+                },
                 "classes": [
                   "silex-default-container"
                 ],
