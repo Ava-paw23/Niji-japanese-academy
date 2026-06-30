@@ -23,6 +23,7 @@
                 "type": "image"
               }
             ],
+            "custom-name": "Header",
             "selector": {
               "mainSelector": {
                 "pseudoClass": null,
