@@ -21,6 +21,12 @@
                   "src": "/assets/niji_logo_2 compress (1).png"
                 },
                 "type": "image"
+              },
+              {
+                "classes": [
+                  "silex-default-container"
+                ],
+                "type": "container"
               }
             ],
             "custom-name": "Header",
