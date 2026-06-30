@@ -219,7 +219,7 @@
       ],
       "style": {
         "align-self": "center",
-        "border": "1px solid #ffffff",
+        "border": "0px solid #ffffff",
         "border-bottom": "0px solid",
         "border-radius": "10px",
         "box-shadow": "0px 0px 5px 0px #031d44 ",
