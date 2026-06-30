@@ -20,6 +20,7 @@
       "style": {
         "border-bottom": "3px solid #9c3848",
         "display": "flex",
+        "justify-content": "space-between",
         "min-height": "100px"
       }
     },
