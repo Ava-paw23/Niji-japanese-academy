@@ -56,15 +56,6 @@
       "style": {
         "border-bottom": "0px solid #9c3848"
       }
-    },
-    {
-      "selectors": [
-        "#ieg3"
-      ],
-      "style": {
-        "height": "1980px",
-        "width": "760px"
-      }
     }
   ],
   "symbols": []
