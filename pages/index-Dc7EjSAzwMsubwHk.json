@@ -9,6 +9,14 @@
         "classes": [
           "silex-default-container"
         ],
+        "components": [
+          {
+            "classes": [
+              "silex-default-container"
+            ],
+            "type": "container"
+          }
+        ],
         "docEl": {
           "tagName": "html"
         },
