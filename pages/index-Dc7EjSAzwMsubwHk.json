@@ -16,10 +16,15 @@
             ],
             "selector": {
               "mainSelector": {
-                "pseudoClass": null,
+                "pseudoClass": {
+                  "hasParam": false,
+                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                  "sentencePre": "On mouse",
+                  "type": "hover"
+                },
                 "selectors": [
                   {
-                    "active": true,
+                    "active": false,
                     "type": "id",
                     "value": "ixq5"
                   },
