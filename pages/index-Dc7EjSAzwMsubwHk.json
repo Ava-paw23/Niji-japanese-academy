@@ -70,6 +70,43 @@
                   },
                   {
                     "attributes": {
+                      "id": "i2vja-2"
+                    },
+                    "classes": [
+                      "silex-default-text"
+                    ],
+                    "components": [
+                      {
+                        "content": "Home",
+                        "type": "textnode"
+                      }
+                    ],
+                    "selector": {
+                      "mainSelector": {
+                        "pseudoClass": {
+                          "hasParam": false,
+                          "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:active",
+                          "sentencePre": "When",
+                          "type": "active"
+                        },
+                        "selectors": [
+                          {
+                            "active": true,
+                            "type": "id",
+                            "value": "i2vja"
+                          },
+                          {
+                            "active": false,
+                            "type": "class",
+                            "value": "silex-default-text"
+                          }
+                        ]
+                      }
+                    },
+                    "type": "text"
+                  },
+                  {
+                    "attributes": {
                       "id": "iib6l"
                     },
                     "classes": [
