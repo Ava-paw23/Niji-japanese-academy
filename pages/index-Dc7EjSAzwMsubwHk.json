@@ -24,30 +24,6 @@
               },
               {
                 "attributes": {
-                  "id": "ioh0j"
-                },
-                "classes": [
-                  "silex-default-container"
-                ],
-                "type": "container"
-              },
-              {
-                "classes": [
-                  "silex-default-container"
-                ],
-                "type": "container"
-              },
-              {
-                "attributes": {
-                  "id": "i8h5j"
-                },
-                "classes": [
-                  "silex-default-container"
-                ],
-                "type": "container"
-              },
-              {
-                "attributes": {
                   "id": "iqmlj"
                 },
                 "classes": [
