@@ -31,24 +31,6 @@
                 ],
                 "custom-name": "Navigation",
                 "type": "container"
-              },
-              {
-                "attributes": {
-                  "id": "i65vl"
-                },
-                "classes": [
-                  "silex-default-container"
-                ],
-                "type": "container"
-              },
-              {
-                "attributes": {
-                  "id": "iiuy"
-                },
-                "classes": [
-                  "silex-default-container"
-                ],
-                "type": "container"
               }
             ],
             "custom-name": "Header",
