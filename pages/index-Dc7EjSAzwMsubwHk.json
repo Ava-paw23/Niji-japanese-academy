@@ -77,8 +77,8 @@
                     ],
                     "components": [
                       {
-                        "content": "Insert your text here",
-                        "type": "textnode"
+                        "tagName": "br",
+                        "void": true
                       }
                     ],
                     "type": "text"
