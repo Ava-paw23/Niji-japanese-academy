@@ -32,10 +32,18 @@
                 ],
                 "components": [
                   {
+                    "attributes": {
+                      "id": "i2vja"
+                    },
                     "classes": [
                       "silex-default-text"
                     ],
-                    "content": "Insert your text here",
+                    "components": [
+                      {
+                        "content": "Home",
+                        "type": "textnode"
+                      }
+                    ],
                     "type": "text"
                   }
                 ],
