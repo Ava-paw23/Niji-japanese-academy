@@ -70,6 +70,38 @@
                   },
                   {
                     "attributes": {
+                      "id": "iib6l"
+                    },
+                    "classes": [
+                      "silex-default-text"
+                    ],
+                    "components": [
+                      {
+                        "content": "Courses",
+                        "type": "textnode"
+                      }
+                    ],
+                    "selector": {
+                      "mainSelector": {
+                        "pseudoClass": null,
+                        "selectors": [
+                          {
+                            "active": true,
+                            "type": "id",
+                            "value": "iib6l"
+                          },
+                          {
+                            "active": false,
+                            "type": "class",
+                            "value": "silex-default-text"
+                          }
+                        ]
+                      }
+                    },
+                    "type": "text"
+                  },
+                  {
+                    "attributes": {
                       "id": "i2vja-2"
                     },
                     "classes": [
@@ -94,38 +126,6 @@
                             "active": true,
                             "type": "id",
                             "value": "i2vja"
-                          },
-                          {
-                            "active": false,
-                            "type": "class",
-                            "value": "silex-default-text"
-                          }
-                        ]
-                      }
-                    },
-                    "type": "text"
-                  },
-                  {
-                    "attributes": {
-                      "id": "iib6l"
-                    },
-                    "classes": [
-                      "silex-default-text"
-                    ],
-                    "components": [
-                      {
-                        "content": "Courses",
-                        "type": "textnode"
-                      }
-                    ],
-                    "selector": {
-                      "mainSelector": {
-                        "pseudoClass": null,
-                        "selectors": [
-                          {
-                            "active": true,
-                            "type": "id",
-                            "value": "iib6l"
                           },
                           {
                             "active": false,
