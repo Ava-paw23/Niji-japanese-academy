@@ -82,6 +82,15 @@
       "style": {
         "background-color": "#9c3848"
       }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#is2uy"
+      ],
+      "style": {
+        "width": "30px"
+      }
     }
   ],
   "symbols": []

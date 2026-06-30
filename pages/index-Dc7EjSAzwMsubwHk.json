@@ -86,6 +86,9 @@
             "type": "container"
           },
           {
+            "attributes": {
+              "id": "is2uy"
+            },
             "classes": [
               "silex-default-container"
             ],
