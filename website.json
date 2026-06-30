@@ -126,6 +126,15 @@
         "background-color": "#9c3848",
         "color": "#f1e2e4"
       }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#iib6l"
+      ],
+      "style": {
+        "text-align": "center"
+      }
     }
   ],
   "symbols": []

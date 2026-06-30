@@ -69,10 +69,18 @@
                     "type": "text"
                   },
                   {
+                    "attributes": {
+                      "id": "iib6l"
+                    },
                     "classes": [
                       "silex-default-text"
                     ],
-                    "content": "Insert your text here",
+                    "components": [
+                      {
+                        "content": "Insert your text here",
+                        "type": "textnode"
+                      }
+                    ],
                     "type": "text"
                   }
                 ],
