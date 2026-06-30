@@ -46,7 +46,7 @@
       ],
       "style": {
         "align-content": "center",
-        "background-color": "#f0ffce",
+        "background-color": "#ffffff",
         "border-bottom": "1px solid #9c3848",
         "display": "flex",
         "justify-content": "space-between",
