@@ -158,7 +158,8 @@
       "state": "active",
       "style": {
         "background-color": "#9c3848",
-        "color": "#f1e2e4"
+        "color": "#f1e2e4",
+        "font-family": "Trebuchet MS, Helvetica, sans-serif"
       }
     }
   ],
