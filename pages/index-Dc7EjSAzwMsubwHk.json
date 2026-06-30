@@ -54,6 +54,12 @@
               }
             },
             "type": "container"
+          },
+          {
+            "classes": [
+              "silex-default-container"
+            ],
+            "type": "container"
           }
         ],
         "docEl": {
