@@ -33,7 +33,7 @@
         "silex-default-container"
       ],
       "style": {
-        "border-bottom": "2px solid #9c3848",
+        "border-bottom": "1px solid #9c3848",
         "display": "flex",
         "justify-content": "space-between",
         "min-height": "100px"
