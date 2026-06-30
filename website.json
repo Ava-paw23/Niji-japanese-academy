@@ -222,7 +222,7 @@
         "border": "0px solid",
         "border-bottom": "0px solid",
         "border-radius": "10px",
-        "box-shadow": "0px 0px 5px 0px #031d44 ",
+        "box-shadow": "0px 0px 5px 0px #031d44 inset",
         "color": "#031d44",
         "font-family": "Trebuchet MS, Helvetica, sans-serif",
         "outline": "1px"
