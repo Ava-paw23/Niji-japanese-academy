@@ -20,12 +20,6 @@
             "custom-name": "Header",
             "selector": {
               "mainSelector": {
-                "pseudoClass": {
-                  "hasParam": false,
-                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:empty",
-                  "sentencePre": "When it is",
-                  "type": "empty"
-                },
                 "selectors": [
                   {
                     "active": false,
