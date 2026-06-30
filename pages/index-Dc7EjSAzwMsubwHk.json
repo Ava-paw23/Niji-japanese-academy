@@ -39,6 +39,12 @@
                   "silex-default-container"
                 ],
                 "type": "container"
+              },
+              {
+                "classes": [
+                  "silex-default-container"
+                ],
+                "type": "container"
               }
             ],
             "custom-name": "Header",
