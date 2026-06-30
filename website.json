@@ -71,6 +71,7 @@
         "#ieg3"
       ],
       "style": {
+        "align-self": "center",
         "height": "78px",
         "width": "78px"
       }
