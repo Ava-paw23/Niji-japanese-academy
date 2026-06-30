@@ -11,9 +11,34 @@
         ],
         "components": [
           {
+            "attributes": {
+              "id": "iztc"
+            },
             "classes": [
               "silex-default-container"
             ],
+            "selector": {
+              "mainSelector": {
+                "pseudoClass": {
+                  "hasParam": false,
+                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                  "sentencePre": "On mouse",
+                  "type": "hover"
+                },
+                "selectors": [
+                  {
+                    "active": true,
+                    "type": "id",
+                    "value": "iztc"
+                  },
+                  {
+                    "active": false,
+                    "type": "class",
+                    "value": "silex-default-container"
+                  }
+                ]
+              }
+            },
             "type": "container"
           }
         ],
