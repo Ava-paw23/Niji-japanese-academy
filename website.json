@@ -149,6 +149,16 @@
       "style": {
         "font-weight": "600"
       }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#iib6l"
+      ],
+      "state": "active",
+      "style": {
+        "background-color": "#9c3848"
+      }
     }
   ],
   "symbols": []
