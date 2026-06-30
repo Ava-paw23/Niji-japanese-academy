@@ -77,8 +77,8 @@
                     ],
                     "components": [
                       {
-                        "tagName": "br",
-                        "void": true
+                        "content": "Courses",
+                        "type": "textnode"
                       }
                     ],
                     "type": "text"
