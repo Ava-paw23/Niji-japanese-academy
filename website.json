@@ -25,7 +25,19 @@
     }
   ],
   "pagesFolder": "pages",
-  "publication": {},
+  "publication": {
+    "connector": {
+      "background": "#006400",
+      "color": "#ffffff",
+      "connectorId": "download-connector",
+      "disableLogout": false,
+      "displayName": "Download zip file",
+      "icon": "/assets/download.png",
+      "isLoggedIn": true,
+      "oauthUrl": null,
+      "type": "HOSTING"
+    }
+  },
   "settings": {},
   "styles": [
     {
@@ -242,6 +254,40 @@
       "atRule": "",
       "selectors": [
         "#i2vja-2-2"
+      ],
+      "state": "active",
+      "style": {
+        "background-color": "#9c3848",
+        "border-radius": "10px 10px 10px 10px",
+        "color": "#f1e2e4"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#i2vja-2-3"
+      ],
+      "style": {
+        "align-self": "center",
+        "border-bottom": "0px solid",
+        "color": "#9c3848",
+        "font-family": "Trebuchet MS, Helvetica, sans-serif"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#i2vja-2-3"
+      ],
+      "state": "hover",
+      "style": {
+        "font-weight": "600"
+      }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#i2vja-2-3"
       ],
       "state": "active",
       "style": {
