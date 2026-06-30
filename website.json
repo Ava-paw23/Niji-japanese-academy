@@ -147,6 +147,7 @@
       ],
       "state": "hover",
       "style": {
+        "font-family": "Trebuchet MS, Helvetica, sans-serif",
         "font-weight": "600"
       }
     },
