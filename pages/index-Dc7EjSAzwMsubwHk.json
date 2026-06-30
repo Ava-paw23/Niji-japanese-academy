@@ -85,9 +85,9 @@
                       "mainSelector": {
                         "pseudoClass": {
                           "hasParam": false,
-                          "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:active",
-                          "sentencePre": "When",
-                          "type": "active"
+                          "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                          "sentencePre": "On mouse",
+                          "type": "hover"
                         },
                         "selectors": [
                           {
