@@ -2,6 +2,13 @@
   "assets": [
     {
       "height": 0,
+      "src": "/assets/niji_logo_2 compress (1).png",
+      "type": "image",
+      "unitDim": "px",
+      "width": 0
+    },
+    {
+      "height": 0,
       "src": "/assets/niji_logo_2.png",
       "type": "image",
       "unitDim": "px",
