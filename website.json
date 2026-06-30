@@ -115,6 +115,16 @@
       "style": {
         "font-weight": "600"
       }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#i2vja"
+      ],
+      "state": "active",
+      "style": {
+        "background-color": "#9c3848"
+      }
     }
   ],
   "symbols": []
