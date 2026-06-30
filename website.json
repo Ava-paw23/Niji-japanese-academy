@@ -92,6 +92,15 @@
         "height": "50px",
         "width": "300px"
       }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "#i2vja"
+      ],
+      "style": {
+        "align-self": "center"
+      }
     }
   ],
   "symbols": []
