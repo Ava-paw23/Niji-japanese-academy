@@ -107,6 +107,28 @@
                   }
                 ],
                 "custom-name": "Navigation",
+                "selector": {
+                  "mainSelector": {
+                    "pseudoClass": {
+                      "hasParam": false,
+                      "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                      "sentencePre": "On mouse",
+                      "type": "hover"
+                    },
+                    "selectors": [
+                      {
+                        "active": true,
+                        "type": "id",
+                        "value": "is2uy"
+                      },
+                      {
+                        "active": false,
+                        "type": "class",
+                        "value": "silex-default-container"
+                      }
+                    ]
+                  }
+                },
                 "type": "container"
               }
             ],
