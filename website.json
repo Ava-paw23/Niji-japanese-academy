@@ -123,7 +123,8 @@
       ],
       "state": "active",
       "style": {
-        "background-color": "#9c3848"
+        "background-color": "#9c3848",
+        "color": "#f1e2e4"
       }
     }
   ],
