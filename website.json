@@ -15,6 +15,14 @@
   "styles": [
     {
       "selectors": [
+        "silex-default-container"
+      ],
+      "style": {
+        "min-height": "100px"
+      }
+    },
+    {
+      "selectors": [
         "silex-default-text"
       ],
       "style": {
