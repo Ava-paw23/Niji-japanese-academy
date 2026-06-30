@@ -113,8 +113,7 @@
       ],
       "state": "hover",
       "style": {
-        "font-weight": "600",
-        "text-decoration": "none"
+        "font-weight": "600"
       }
     }
   ],
