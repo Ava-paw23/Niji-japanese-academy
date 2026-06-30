@@ -9,34 +9,6 @@
         "classes": [
           "silex-default-container"
         ],
-        "components": [
-          {
-            "attributes": {
-              "id": "iztc"
-            },
-            "classes": [
-              "silex-default-container"
-            ],
-            "custom-name": "Header",
-            "selector": {
-              "mainSelector": {
-                "selectors": [
-                  {
-                    "active": false,
-                    "type": "id",
-                    "value": "iztc"
-                  },
-                  {
-                    "active": true,
-                    "type": "class",
-                    "value": "silex-default-container"
-                  }
-                ]
-              }
-            },
-            "type": "container"
-          }
-        ],
         "docEl": {
           "tagName": "html"
         },
