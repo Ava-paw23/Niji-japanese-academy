@@ -223,7 +223,7 @@
         "border-bottom": "0px solid",
         "color": "#031d44",
         "font-family": "Trebuchet MS, Helvetica, sans-serif",
-        "outline": "#031d44"
+        "outline": "1px"
       }
     },
     {
