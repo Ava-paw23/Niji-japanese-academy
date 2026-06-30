@@ -89,7 +89,7 @@
         "#is2uy"
       ],
       "style": {
-        "align-content": "flex-start",
+        "align-content": "center",
         "border-bottom": "0px solid",
         "height": "50px",
         "width": "300px"
