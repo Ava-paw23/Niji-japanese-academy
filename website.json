@@ -28,6 +28,16 @@
       "style": {
         "padding": "10px"
       }
+    },
+    {
+      "atRule": "",
+      "selectors": [
+        "silex-default-container"
+      ],
+      "state": "hover",
+      "style": {
+        "background-color": "#000000"
+      }
     }
   ],
   "symbols": []
