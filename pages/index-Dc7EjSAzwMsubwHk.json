@@ -53,12 +53,7 @@
         "publicStates": [],
         "selector": {
           "mainSelector": {
-            "pseudoClass": {
-              "hasParam": false,
-              "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
-              "sentencePre": "On mouse",
-              "type": "hover"
-            },
+            "pseudoClass": null,
             "selectors": [
               {
                 "active": true,
