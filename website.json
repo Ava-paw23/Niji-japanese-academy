@@ -62,7 +62,8 @@
         "#ieg3"
       ],
       "style": {
-        "width": "760px"
+        "height": "66px",
+        "width": "66px"
       }
     }
   ],
