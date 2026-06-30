@@ -114,7 +114,7 @@
       "state": "hover",
       "style": {
         "font-weight": "600",
-        "text-decoration": "blink"
+        "text-decoration": "none"
       }
     }
   ],
