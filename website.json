@@ -58,6 +58,14 @@
       }
     },
     {
+      "atRule": "",
+      "selectors": [],
+      "selectorsAdd": "bodyhtml",
+      "style": {
+        "background-color": "#000000"
+      }
+    },
+    {
       "selectors": [
         "#ieg3"
       ],
