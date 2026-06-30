@@ -30,6 +30,15 @@
                 "classes": [
                   "silex-default-container"
                 ],
+                "components": [
+                  {
+                    "classes": [
+                      "silex-default-text"
+                    ],
+                    "content": "Insert your text here",
+                    "type": "text"
+                  }
+                ],
                 "custom-name": "Navigation",
                 "type": "container"
               }
