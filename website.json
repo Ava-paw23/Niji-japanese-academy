@@ -99,7 +99,8 @@
         "#i2vja"
       ],
       "style": {
-        "align-self": "center"
+        "align-self": "center",
+        "font-family": "Lucida Sans Unicode, Lucida Grande, sans-serif"
       }
     }
   ],
