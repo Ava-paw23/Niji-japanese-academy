@@ -6,9 +6,6 @@
         "attributes": {
           "id": "ih4j"
         },
-        "classes": [
-          "silex-default-container"
-        ],
         "docEl": {
           "tagName": "html"
         },
@@ -29,11 +26,6 @@
                 "active": true,
                 "type": "tag",
                 "value": "html"
-              },
-              {
-                "active": true,
-                "type": "class",
-                "value": "silex-default-container"
               }
             ]
           }
