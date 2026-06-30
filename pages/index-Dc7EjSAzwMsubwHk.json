@@ -152,12 +152,7 @@
                     ],
                     "selector": {
                       "mainSelector": {
-                        "pseudoClass": {
-                          "hasParam": false,
-                          "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:active",
-                          "sentencePre": "When",
-                          "type": "active"
-                        },
+                        "pseudoClass": null,
                         "selectors": [
                           {
                             "active": true,
