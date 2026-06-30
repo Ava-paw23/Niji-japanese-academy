@@ -32,7 +32,7 @@
                     "value": "iztc"
                   },
                   {
-                    "active": false,
+                    "active": true,
                     "type": "class",
                     "value": "silex-default-container"
                   }
