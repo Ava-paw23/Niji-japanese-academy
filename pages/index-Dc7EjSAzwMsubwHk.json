@@ -17,6 +17,7 @@
             "classes": [
               "silex-default-container"
             ],
+            "custom-name": "Header",
             "selector": {
               "mainSelector": {
                 "pseudoClass": {
