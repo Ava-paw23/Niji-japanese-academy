@@ -33,6 +33,7 @@
         "silex-default-container"
       ],
       "style": {
+        "background-color": "#f0ffce",
         "border-bottom": "1px solid #9c3848",
         "display": "flex",
         "justify-content": "space-between",
