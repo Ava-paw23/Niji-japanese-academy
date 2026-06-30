@@ -8,9 +8,29 @@
         },
         "components": [
           {
+            "attributes": {
+              "id": "ixq5"
+            },
             "classes": [
               "silex-default-container"
             ],
+            "selector": {
+              "mainSelector": {
+                "pseudoClass": null,
+                "selectors": [
+                  {
+                    "active": true,
+                    "type": "id",
+                    "value": "ixq5"
+                  },
+                  {
+                    "active": true,
+                    "type": "class",
+                    "value": "silex-default-container"
+                  }
+                ]
+              }
+            },
             "type": "container"
           }
         ],
