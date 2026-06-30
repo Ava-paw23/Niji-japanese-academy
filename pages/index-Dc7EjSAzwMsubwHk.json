@@ -1,0 +1,48 @@
+{
+  "frames": [
+    {
+      "component": {
+        "COMPONENT_NAME_PREFIX": "",
+        "attributes": {
+          "id": "ih4j"
+        },
+        "docEl": {
+          "tagName": "html"
+        },
+        "head": {
+          "type": "head"
+        },
+        "publicStates": [],
+        "selector": {
+          "mainSelector": {
+            "pseudoClass": null,
+            "selectors": [
+              {
+                "active": true,
+                "type": "tag",
+                "value": "body"
+              },
+              {
+                "active": true,
+                "type": "tag",
+                "value": "html"
+              }
+            ]
+          }
+        },
+        "stylable": [
+          "background",
+          "background-color",
+          "background-image",
+          "background-repeat",
+          "background-attachment",
+          "background-position",
+          "background-size"
+        ],
+        "type": "wrapper"
+      },
+      "id": "JEHM5QlbeKd5tHlT"
+    }
+  ],
+  "id": "Dc7EjSAzwMsubwHk"
+}

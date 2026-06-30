@@ -1,6 +1,34 @@
 {
+  "assets": [],
+  "cssVarOrder": [],
+  "dataSources": [],
+  "fonts": [],
   "pages": [
-    {}
+    {
+      "id": "Dc7EjSAzwMsubwHk",
+      "isFile": true
+    }
   ],
-  "pagesFolder": "pages"
+  "pagesFolder": "pages",
+  "publication": {},
+  "settings": {},
+  "styles": [
+    {
+      "selectors": [
+        "silex-default-container"
+      ],
+      "style": {
+        "min-height": "100px"
+      }
+    },
+    {
+      "selectors": [
+        "silex-default-text"
+      ],
+      "style": {
+        "padding": "10px"
+      }
+    }
+  ],
+  "symbols": []
 }
