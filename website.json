@@ -37,7 +37,7 @@
         "background-color": "#f0ffce",
         "border-bottom": "1px solid #9c3848",
         "display": "flex",
-        "justify-content": "space-evenly",
+        "justify-content": "space-between",
         "min-height": "88px"
       }
     },
