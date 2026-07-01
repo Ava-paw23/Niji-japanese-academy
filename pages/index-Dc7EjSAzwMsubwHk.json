@@ -109,8 +109,12 @@
                     ],
                     "components": [
                       {
-                        "content": "About Us",
+                        "content": "Blog",
                         "type": "textnode"
+                      },
+                      {
+                        "tagName": "br",
+                        "void": true
                       }
                     ],
                     "selector": {
